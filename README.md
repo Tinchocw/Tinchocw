@@ -5,8 +5,8 @@ I'm Martin Cwikla currently studying software engineering at the University of B
 
 
 ## 🌱 I’m currently learning 
-- Management of computer development systems
-- Distributed systems
+- Languages ​​and compilers
+- Computer Security
 
 ## 💪 Main projects I've worked on
 
